@@ -2,7 +2,7 @@
 - 👀 I’m interested in computers and code.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on coding endeavors.
-- 📫 You can reach me via my email address at bir.fzm@gmail.com
+- 📫 You can reach me via my email address at bir.fzm@gmail.com.
 
 <!---
 birfzm/birfzm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
